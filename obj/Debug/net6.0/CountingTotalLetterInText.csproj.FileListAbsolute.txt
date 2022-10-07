@@ -1,0 +1,15 @@
+/home/saint/Desktop/CountingTotalLetterInText/bin/Debug/net6.0/CountingTotalLetterInText
+/home/saint/Desktop/CountingTotalLetterInText/bin/Debug/net6.0/CountingTotalLetterInText.deps.json
+/home/saint/Desktop/CountingTotalLetterInText/bin/Debug/net6.0/CountingTotalLetterInText.runtimeconfig.json
+/home/saint/Desktop/CountingTotalLetterInText/bin/Debug/net6.0/CountingTotalLetterInText.dll
+/home/saint/Desktop/CountingTotalLetterInText/bin/Debug/net6.0/CountingTotalLetterInText.pdb
+/home/saint/Desktop/CountingTotalLetterInText/obj/Debug/net6.0/CountingTotalLetterInText.csproj.AssemblyReference.cache
+/home/saint/Desktop/CountingTotalLetterInText/obj/Debug/net6.0/CountingTotalLetterInText.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/CountingTotalLetterInText/obj/Debug/net6.0/CountingTotalLetterInText.AssemblyInfoInputs.cache
+/home/saint/Desktop/CountingTotalLetterInText/obj/Debug/net6.0/CountingTotalLetterInText.AssemblyInfo.cs
+/home/saint/Desktop/CountingTotalLetterInText/obj/Debug/net6.0/CountingTotalLetterInText.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/CountingTotalLetterInText/obj/Debug/net6.0/CountingTotalLetterInText.dll
+/home/saint/Desktop/CountingTotalLetterInText/obj/Debug/net6.0/refint/CountingTotalLetterInText.dll
+/home/saint/Desktop/CountingTotalLetterInText/obj/Debug/net6.0/CountingTotalLetterInText.pdb
+/home/saint/Desktop/CountingTotalLetterInText/obj/Debug/net6.0/CountingTotalLetterInText.genruntimeconfig.cache
+/home/saint/Desktop/CountingTotalLetterInText/obj/Debug/net6.0/ref/CountingTotalLetterInText.dll
